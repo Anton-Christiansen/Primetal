@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PrimeNunit/PrimeNunit.csproj" />
+  <Project Path="Primetal/Primetal.csproj" />
+</Solution>
